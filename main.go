@@ -3,7 +3,7 @@ package main
 import (
     routes "golang/routes"
     "os"
-    "net/http"
+    // "net/http"
     "github.com/gin-gonic/gin"
 )
 
